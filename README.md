@@ -35,8 +35,8 @@ SQL Code Explanation
 # PROLOG
 ![Screen Shot 2022-02-23 at 12 02 27 AM](https://user-images.githubusercontent.com/70185585/155177385-d21a7576-9d4f-4805-8d15-aa03c0ee57ea.png)
 
-Brief History of SQL PL
+Brief History of Prolog PL
 #### Prolog arose from studies conducted at the University of Aix-Marseille in the late 1960s and early 1970s. Robert Kowalski of the University of Edinburgh collaborated with Alain Colmerauer and Phillipe Roussel of the University of Aix-Marseille to build the fundamental design of Prolog as we know it today. Colmerauer's research at the time gave ways to codify the Prolog language, while Kowalski contributed the theoretical framework on which Prolog is built. Prolog is still widely used in North America and Europe today. Prolog was heavily utilized in the European Esprit program, as well as in the ICOT Fifth Generation Computer Systems Initiative in Japan. This project was created by the Japanese government in an attempt to create intelligent computers. In these historical computer endeavors, Prolog was a key actor.
 
-SQL Code Explanation
+Prolog Code Explanation
 ##### The first 2 lines are the codes for summation. It is is a recussion code where it checks the succeding elements of the array and you can see the array on the Stdin Inputs. The first line there is the input for summation and you will see the array. Next is getting the average where just like what we always do, we divide the sum of the array to length of the array and taht's it, you wil get the average but in this case we also checked if there is an element in the array. Lastly, for getting the elements less than 10 wjere we stated in our Stdin Inputs that the numbers we want to be stored in R are the elements less than 10.
